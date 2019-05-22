@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <configuration>
   <appSettings>
-    <add key="MySql.Data.dll" value="8.0.12.0"/>
+    <add key="MySql.Data.dll" value="8.0.11.0"/>
     <add key="NModbus4.dll" value="1.0.0.2"/>
     <add key="RybFermaSensors.dll" value="1.0.0.0"/>
     <add key="RybFerma.exe" value="1.0.0.0"/>
